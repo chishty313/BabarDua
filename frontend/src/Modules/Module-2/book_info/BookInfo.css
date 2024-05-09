@@ -1,0 +1,13 @@
+.bi-info-page-mid {
+    min-height: 100vb !important;
+    margin: 6vh 10vb;
+}
+
+.bi-book-cover {
+    width: 80vh !important;
+    max-height: 100vh !important;
+}
+
+.bi-author-name-display {
+    padding-bottom: 1vh !important;
+}
